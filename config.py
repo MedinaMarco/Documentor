@@ -10,7 +10,7 @@ def get_llm():
     """Devuelve el modelo de lenguaje según el motor elegido."""
     if ENGINE == "ollama":
         from langchain_ollama import ChatOllama
-        return ChatOllama(model="llama3.1", temperature=0)
+        return ChatOllama(model="llama3.1:1b", temperature=0)
     if ENGINE == "openai":
         from langchain_openai import ChatOpenAI
         return ChatOpenAI(model="gpt-4o-mini", temperature=0)
