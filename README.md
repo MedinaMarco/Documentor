@@ -18,7 +18,7 @@
 
 <div align="center">
 
-> 🎬 **Demo** — *Grabá una captura de pantalla mostrando el chat en acción y colocala en `assets/demo.gif`.*
+> 🎬 **Demo** — *![Demo de DocuMentor](assets/demo.gif)*
 
 </div>
 
