@@ -265,6 +265,6 @@ MIT © [Marco Medina](https://medinamarco.github.io)
 
 <div align="center">
 
-Desarrollado por [Marco Medina](https://medinamarco.github.io) &nbsp;·&nbsp; [Portafolio](https://medinamarco.github.io) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/tu-perfil)
+Desarrollado por [Marco Medina](https://medinamarco.github.io) &nbsp;·&nbsp; [Portafolio](https://medinamarco.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/marco-medina-castro-247374236/)
 
 </div>
